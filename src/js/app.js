@@ -114,7 +114,7 @@ var $ = require('jquery'),
   contentStr = '<div id="content" style="width:150px;"><h1>$name</h1>$body</div>';
 
 function whereAreThey () {
-  var now = moment('2015-12-30'),
+  var now = moment(),
     where = null;
 
   locs.forEach(function (loc, i) {
