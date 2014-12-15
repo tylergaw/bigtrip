@@ -1,0 +1,18 @@
+# OS generated files
+.DS_Store
+ehthumbs.db
+Icon
+Thumbs.db
+
+# Editor/IDE files
+*.swp
+*.tmproj
+*.sublime-*
+
+# App generated files
+.yo-rc.json
+.sass-cache/
+bower_components/
+dist/
+node_modules/
+scssReport.xml

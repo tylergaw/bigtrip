@@ -1,0 +1,17 @@
+{
+  "browser": true,
+  "eqeqeq": true,
+  "forin": true,
+  "freeze": true,
+  "latedef": true,
+  "maxdepth": 3,
+  "maxparams": 3,
+  "newcap": true,
+  "noarg": true,
+  "noempty": true,
+  "nonew": true,
+  "node": true,
+  "strict": true,
+  "undef": true,
+  "unused": true
+}
