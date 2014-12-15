@@ -1,4 +1,4 @@
-# bigtrip
+# bigtrip [![Build Status](https://travis-ci.org/tylergaw/bigtrip.svg)](https://travis-ci.org/tylergaw/bigtrip)
 
 ## Bundled Documentation
 
